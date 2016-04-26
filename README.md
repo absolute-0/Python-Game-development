@@ -4,17 +4,28 @@
 
 ##steps for running PONG
 1. install pygame module.
-    <sudo apt-get install python-pygame>
+    ```bash
+sudo apt-get install python-pygame
+```
 2. install pip(if its not installed already)
-    <sudo apt-get install python-pip>
+    ```bash
+sudo apt-get install python-pip
+```
 3. now install SimpleGUICS2Pygame module using pip
-    <pip2 install SimpleGUICS2Pygame>
+```bash
+pip2 install SimpleGUICS2Pygame
+```
 4. now just run PONG!.py
-    <python PONG.py>
-
+```bash
+python PONG.py
+```
 
 ## steps for running pygameSnake
 1. install pygame module
-    <sudo apt-get install python-pygame>
+```bash
+sudo apt-get install python-pygame
+```
 2. now just run pygameSnake.py
-    <python pygameSnake.py> 
+```bash
+python pygameSnake.py
+```
