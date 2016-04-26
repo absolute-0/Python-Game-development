@@ -4,11 +4,11 @@
 
 ##steps for running PONG
 1. install pygame module.
-    ```bash
+```bash
 sudo apt-get install python-pygame
 ```
 2. install pip(if its not installed already)
-    ```bash
+```bash
 sudo apt-get install python-pip
 ```
 3. now install SimpleGUICS2Pygame module using pip
