@@ -3,6 +3,7 @@
 ##tested on ubuntu 16.04 and python 2.7.11
 
 ##steps for running PONG
+
 install pygame module.
 ```bash
 sudo apt-get install python-pygame
